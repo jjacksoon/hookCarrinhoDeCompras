@@ -28,4 +28,3 @@ Os dados obtidos são gerados por uma Fake API usando JSON Server e para melhor 
 - Exibição de mensagens de erro; ✅
 - Entre outros.
 
-Abaixo segue o vídeo de demonstração de como ficou a solução final do projeto.
